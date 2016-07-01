@@ -10,3 +10,21 @@
 */
 
 // YOUR CODE HERE
+
+/* var number;
+var list = [];
+for (var i =2; i <= largestNumber; i++) {
+    list.push(i);
+} */
+
+isPrime(num);{ 
+  if(num<=3 || num%2===0 || num%3===0 || num%3===0 || num%5===0 || num%7===0){
+    return true;
+    }
+  else return false;
+  }
+
+
+
+isPrime(l);
+largestNumber='x';
